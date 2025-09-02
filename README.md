@@ -11,11 +11,6 @@ A Python project that converts images in PDF files to text using OCR (Optical Ch
 poetry build
 ```
 
-## Install
-
-```bash
-poetry install
-```
 
 ## Local Install
 
