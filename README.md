@@ -19,6 +19,5 @@ poetry install
 
 ## Create Binary
 ```bash
-pip install pyinstaller
-pyinstaller --onefile --name pdf2txt src/convert/runner.py
+pip install dist/pdf2txt-0.1.0-py3-none-any.whl
 ```

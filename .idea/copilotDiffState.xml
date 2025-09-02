@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/.env">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/.env" />
+              <option name="originalContent" value="# Example .env for local testing with PDF-specific AWS variables&#10;PDF_AWS_PROFILE=your-test-profile&#10;PDF_AWS_REGION=us-west-2&#10;" />
+              <option name="updatedContent" value="# Example .env for local testing with PDF-specific AWS variables&#10;PDF_AWS_PROFILE=your-test-profile&#10;PDF_AWS_REGION=us-west-2&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
