@@ -19,5 +19,6 @@ poetry install
 
 ## Create Binary
 ```bash
+pip install pyinstaller
 pyinstaller --onefile src/convert/runner.py
 ```
